@@ -1,2 +1,2 @@
 # panagey-iman-app
-Anime dozarawa
+ماڵپەڕی فەرمی پەناگەی ئیمان
